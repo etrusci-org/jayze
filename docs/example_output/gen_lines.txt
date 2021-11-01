@@ -1,0 +1,598 @@
+COMMAND:
+
+jayze.py --gen-lines 31
+
+
+OUTPUT:
+
+1kFMWS9iMC@DAbB5AgIdLGApWos68de
+PxbR?57izprRj@Q4Lih?sursUTYKHiZ
+HiQU7SdgHrYzDnf#Ox7neUb3IaUpW!C
+Peqhoizy2jMD2OXSo21@qU8QVTYuUoN
+laWeYs9ConPEBVkV9E3in5l8?KlSvBQ
+NEBnEnf!oBgCqY28ju9XPukYPgZy6Qp
+2qiHA5f7!ODKHA1uEj7WfCHkqul0tp3
+BmlX1Qdcr9u@pMoh16hyCYqvsai1U3N
+yJWUSx0Wxa4FyYfDEaBUR@eIg#!XPXf
+oF7en?1nXq#JP05dKbp8fPb!eSWHv4H
+jElwu?t84N#ut5rSqUgO4m8RE2Gh@cl
+VlVyzPkfjM9zQnLClW27CicZ!tLAEfh
+D0cMFLFWJacCR6X#hYXr4#HWlD9JqRi
+bR@M#?KQBO3exdm9KbqoJRPHO1@iL2t
+thd2q?1XJAGaGseoJvXCqm6tsU53kXr
+3pq37xH!Nz2GERtd@#rzBDL5nSaqwst
+o5Pf27ztFDs2rKQDlqEtN1n54Uz3yJ2
+4Ot#FEZ?FGPCUwJrcAPzx5IP8HSEDOr
+fNKcvy8WNCrk5Rzu5dQW5jISC9qAWr4
+I?EyqiC7?S8foklE929L0e?Zg#j3TCm
+#xRXfNnhQCQj8Zr3Pe2FVfJBleUufHi
+K6!VjJnwSq7jHA73Y5A2XQlhVFRxo36
+Iys6p98vWm!n6XI0K0d2!R1ZfYVbyUa
+NYx@qTUIRuD6JYHC52MeflP3Lh9BOXm
+HWazlBUy2gv3AyLBn4Bk?rkzoCXm5Ky
+XC!uhrGkldoMuoh4!iruB0#vAJ8FDa9
+#iOsA9GUJVFcw1pjZ1Ja@aUe4teqzWD
+m32HJpcEhB85ktuq0JMc?ufWgDKGRWM
+JXY7h1za1p1IadRWnLM?b3S#Kn6G3Rm
+gcUcZTwF0mFuGlA7qHW@17MAFUmJlEG
+Ia@BQ@B@9E48lorUL1?RqKjTsVQR5Nx
+Ks07n5KgCY!jc9O9Rac@4TLnVMIme3i
+Xl3ABKypP2MJazQu7dk8?yQTHMyBF!1
+jkjWsS?GAftLsmH#Po0EaoMIyaJtEIp
+8VnpnfNtWYFJwXRZkwbWr034t30wiaN
+Tjhru7XiADFmEwfLFOz7hjYPmwIGmP9
+HJM4FIqPzf6rWtmx2ZGV!lV4HVLZEyE
+gs@K7eF2Xb3Hl1X?l@S?oDzX6Nd0Ym9
+vaUqnbGOZBhrBMYDxwcMkC8B#@m2#nF
+OA8I9yOuR5e@!cxGXbX2gJHbEOt5ION
+S#YgWPQ1VqDLPfLnwr?ZIgmNJia0CxR
+qXfOANSYN?4NHUz#ZwuhIwtRSqO@1l1
+owfQu!2sUFLT8zAg3o5W8WcPMH?5Exc
+#hniR2S#53@U6JWv2legwfpn4UT4yDP
+KztuTU#AZ?V6?cTveYvFgy9?mewSBoP
+35JwhfWGy0l!AUljY9kLiEyXli8k@eG
+e6P@vgZ3U5P5ts3A18tAgKf4nFKdM7f
+ISgfU1Nns8YHRdg56rRcZPhfJjg#SU3
+YisjBqJLXrtgBJkOY10AsYgLy7HNuYl
+HY4r#oUAsPVmgtzSv5ACUhMDS9Pt1wJ
+
+
+===============================================================================
+
+
+COMMAND:
+
+jayze.py --gen-lines 6 --eol " "
+
+
+OUTPUT:
+
+lZj3Id !IgkGl 6dM8mY ARsl21 ?gY#oN sRK6r5 g#JIlH V!WjrN !QCxQw 2Iidzx fiowhI 8GqCBF CVYEbH LFluAf RUEA1K Hc3W2O qxmPXu y@jOAS z8Z29m h0dSwW skRitE yqomYa GUzSLD 9Py9vp ruxCAr wKeF73 QMtcR8 SU1I0p hrUZ8J VBjH2l 26aILG yxUN4Q
+
+
+===============================================================================
+
+
+COMMAND:
+
+jayze.py --gen-lines 31 --case upper
+
+
+OUTPUT:
+
+VYTC1VDQDARGWXLA3QD48LDFKKBJE5N
+JNHIO0QUMYKDA0LFA?@I8Z07H3NCHPU
+UZSSWAUX3DF3PKQMBWB7VL8QCKEUIB2
+YXO!#49UUQOW9XIV@MQCL4TKFNS0@2R
+JTVEPZ#4LHYC1L8WHZ@ASOFCREIQXVL
+F9UYEIS#JXOOMZDMSBHT58CTFPUAUSM
+0VVZ1G!GUHPKHUTZS7UXKYDFQFZ#M3E
+48ZYFFYTVQB@CYJU1RHX?EX68FGX3EY
+JPNPTRYA?K!YNBMX3L@L4D9BLTYZQ9@
+LKNIZCX3@?DCMWQ!9E84WBEQDX1E7M2
+PRV#URHT@KXFYUYZIWHF@F6FTTLVPAC
+4ZNXS#4#JEGUKTGS58QT6Q7NIGZD0WC
+?AO?GK0DT0FNT3HY9BTYKBWN438@MDU
+FQOXFVQO#5I6!CVONM#YXBF9NWMS6OL
+K6FMBI97AO9GHVGUHDS0PF8UAG@D9MA
+CMGXKFCQY7JSBA6W7LJT@VW6MS952RG
+FQEBP9W@VAXQIV8#5#YU4YW?RMJK1AA
+EGTBFKWBNO#LPLERUZF2VU@7V8KVQLD
+RPWNFHFOYMN@KHS75RHQW8MA#IKZDSO
+HZO?68H#OMDUPCP@FZMVENDQSJVALFV
+A02DD7@JWA1ZNSVYILPD?AEUEL5HOAL
+E7GQO8YT4B?UARUKJ#W2CFWCLM5SD#H
+?J@DW8RIREBIN6CZXJ?8!W?@FWUQLUY
+9OLH9UMVMW2WRSQAWVDY!2BMXC1XW89
+SY@XQO3DE1T6ECIZ8VR4Y!PRPL2OXSL
+6DYR2DWDJFDCE1VFUVIEGEBYDM6OL@W
+FVQRIJEA5@#XCESHENGFPO?3RKIUNIM
+1F7@WKRKZEY14YQ@G1OK!F454?Q9ANB
+NCV?SXJ4XPFQSK#5XPKWAJ#ZHGFY190
+OL8TSRRXQ?1YX!OTWGQRPQSLSCHT96M
+CPHDADGZ1MQVCQ6JEIQJY0TCX2HCTFO
+J4UQ!VBAK!QDH@OCBW#?QDPCP20CIGG
+513F63YDLS?0AT19DJGF8ZIOWEPNDG?
+W5WXGJGZJZ7XZAXHGFMVFE1YLJ!Y8C@
+NQKMIXZDWPSVL2F3NSZGOJZRMFD7RMU
+GBAJMQL!VDOOVKJTC9NVWNBCN48BMPO
+CTRWCOIWMKA8CELI!JWWYIL0ZYHOLKH
+IVD72Z47SE6U05PQXGMO3G@G?WVPR6W
+IF6PBG9URZEDMQVQM5AY2PJELNFHMQN
+RJKGLD1TIKQOUABAVXHQ0AB#@NY!HO4
+K9CDMIXXZEPNA0VEJYDP2ZPDHB5CB!Y
+M3I3TXNPIM1KTEXIVKEQML?PR4KVJAQ
+NQ9J#XAIN2!418UWIQ?NRKS6CZMX2D8
+UTUMIF9RCLCD1GZVT6YOL?NIN7X21X#
+?KJYQFAFQJ!HDCHYOCBUZLJT8HODVR1
+UHRBWCN4BUMG?B7CJRNWMBI2ZYAY1LK
+CPLYFMSSMSSBQC35Q4CU3UAA2DNQ?KU
+0R3CO7RWPR4E4KE4DHYW2NL4MC0NRCG
+#CZXXZ5PGLJS8KQIM8EWQTUFSI6T7N!
+K7MLFG!CYJD4S?6C2FH0EBDCVKX#N9O
+
+
+===============================================================================
+
+
+COMMAND:
+
+jayze.py --gen-lines 31 --floater \\ / \) \(
+
+
+OUTPUT:
+
+(!jC50EsEVS7WATS2OC1j7ZyTFaPV5b
+3\OWamKQMd!Mr1FQR3pnplGOgLdyX5D
+zn\ySZ6SrZxzRWB189OzmKXxXW2LkPU
+QLZ\rn8M?YbFVIH5i!q6JLjYk8IYKHA
+V#2b\sO9#F93n7oZHu3kJTSMsDnbhDC
+F3mfu\M#?U7CSgts#vPgB0u1YDTdXwL
+Mx@w3q\zok9c2I?MWuZhjJH6atVE#V6
+FO@Rw@0\G4X3Dmjb@dLzk1Hy@E8dESL
+6mP#hQ3N\dobRoC?WMUC9mdPHe2!p2i
+TnzX7EgqW\CyETtQl@IOpKtv5sf4U87
+d4XaUiMH#Q\ZG#fFRd@!4WLuvzwqvwm
+Aqm21LmLO#y\iovd4jbA0D7mQEae?Xl
+pYhicG6YW2D!\7Z8KZE2hQt1MIWLk7e
+Y!B8icb!9dW6H\KaGVA7E64HYgkMABf
+Lh9GRByY2Zkpqm\5Nnl?uKhLn#tpvC1
+a80paVJM?Xr1Pk?\J4YiIj4Dq1eBDFr
+GF4hzOl1DYnr9tbH\2BJ?ZTVoXUh5gl
+Z#AHctOV1RrmjF#py\Rr9ues1nQTDfD
+morg#MgvigAucU7t0f\c3Zc0zHipWm1
+QGreX4CmE74VFR7mjhc\s!aFNUW@swd
+ILl!o36LTek8JyUzMhoa\gRk7e8xSEG
+9amVtV96goW7F64kDdUCu\Rt2bYlISJ
+IJQjdCgGTnYxX7DnHAl7es\nFp@8VEa
+CnmlJ1qUt@j3i@igMrvAgbf\oikl#WM
+VWv9MdgTj0JlK?f?LEziK2KC\2Pkluf
+nredh?Vyxc1IjNvzZPsrst2@Y\WJuw@
+r0eXRsDlHNgOWFifvemjKLsruT\dPRZ
+!CeIghJ!EVlszeHMWi2wLTbQPXB\CfF
+jCfCqv2PJbThUuSITu!g1yRZjmJH\eV
+8@tuW#LCjknM0U5U3UvyzS35FgbpU\G
+gOdlxle@EzKYM2tpqO5#rejB#Hc8sg)
+FDR70lxNnT#tjA7@XY?1mH4SVkXp5/V
+9yQlLzuWadp13EfvJjwJmquM4#On/uY
+G4hpqHu!zunh3Oge7MqxHywNO03/OQg
+LwWV#KuRTF9krv1H4XZbdnkXHI/XOCH
+EB5nKJjqDAD8jQi1rnM@wqP?d/p4Pj?
+AO0tnaVmf1sNf8BOMPbPVkzF/NMJ!xb
+0RmNYAd!KxpLQAlXRZT2!8I/aXhbK31
+MzoeGX3G5W3klpEFm!hZ03/gSeCxJ#V
+e38zY4b4dcL@j1Sic!EOQ/zAc!utzSR
+BThi@l2mouYIgbtF7B5S/hZx3fzIyAu
+uo6X#AWtD5McJC4Ti78/KxHFZdcQ@b@
+qXog?6OxGAKn848Bc#/NYvw@zwI5NW!
+3uZNT1TOKZToCtWf6/sgHDOydcN@I5V
+rM@lK7aDxwPWtmGx/jQIY#FNzGYfkEx
+c@?A#Ag@TrkxOx0/ipro4!Cup!vb9qh
+OEWfFUG?fl?xcG/Y5gY?Xaf9aKlgp1r
+ZX79a!Oeb6Q?E/CxB8@HzDf4?mTf!t@
+gVohKYoMHlqy/tjQr2!4j26Kz5!MIx!
+y4oQNB@Hj9e/G4m8olNXj!0iuTKu1uH
+HCFi@cCv9Q/J64JbYXZxB2isrhdoIiH
+2dJgSynlg/gzk4gvU1#8DC0OCIeWt38
+YWZ493WP/aWQLR3fy21Fqk?G@pSlKUl
+o4NV0Zb/s@YdqeS2ivxh!8sxfqWFSbC
+OaX5pe/AVlY7jft1DnwjuHxvK0NsCEA
+Wp4aR/3kL4C!Ue#5?EQp?FvZl36nIBf
+6NZ9/b8heGJhy!7G#yOj5s3?BKvpTfX
+oVm/Afb?RbJptOl7xGbCRJahMbEQxiT
+MB/TV7lv?UIpQJQmwN2M2dcAOgw4boI
+j/qSvBR96CUSbLZP#JdyWCdhBFaIYiw
+(ByEDcW0TzG4mPF4LCJduwtl#pshEbs
+
+
+===============================================================================
+
+
+COMMAND:
+
+jayze.py --gen-lines 31 --center \| \*
+
+
+OUTPUT:
+
+?4lq!TSFY5qd6z1|VM@TUrMK9Sed9wL
+OFJgD8zI@cPyFM9|q!lx3BP7upuvDdg
+Elki3ZgqGENhoxe|lRvrl7ciMHN@MXE
+mZnBqhN?ZfiedNx|ljqRj!RFqURZaqb
+WSBgSr64G964oS0|afFr@ne8iPG#QGk
+Ol#PiLyHIF9dAjZ|eGgc5Ks9oB0JDqS
+V942T35d9InzTjf|sOv#@iyx!1joJGq
+B0?ZWOgT@LxGRz7|8NPuWDR7q!64l9k
+TFcpBNlTBzM7D9H|hV3StCLaiXal6J#
+1w0ZPTHJ!C8A7N2|3OkfB6M#UeI9XCn
+z@3vmRu0f8q3IbO|PjnG2Rz?dWcsOk5
+@8gDXqWitsCxPaU|WU762JDYJVkLBYP
+eYfXFJEd7Hydnx4|lUZQIwsEtrwZWj8
+wWH7?!tsDNjwNvh|3iRJh19z@1wO2?Z
+ayr?wW6H19dcqMB|N9fuNAbEHGX!OuM
+Kcjer70NEbWhIkc|3O!7QnEW6g6ZbOo
+TtI#yc5?@QTG1WM|Z1a?M?vt6APtJqt
+uk7OHc#LKtVMV4M|?rysakVba4SmhKm
+hZLg39MOyeM?k#M|o3Jo6JcHmlsL1R6
+zyRiE#oyINfXVO6|FdEhNYVP1JPfU1P
+EFIQYoLYzIkaJ8o|NkVH4vzT5mKcjUr
+xBhvKQVfPQTo70o|RFfHM9izWlizAmI
+bi!u2m9!FLgwC7Q|tVD0mUxkSnWmOHM
+d3qD4zUqiShTpRk|nrhp#H6AuZ1aw@F
+5UtTvfzXGxfkNtC|AvnwoXve9WupQ8L
+HEepO6xVDl1sWUt|SHcv?dPKxbNfC3r
+0c@VNcNVDcujUxn|UC4OY6IsWw7nd6j
+@a@PElStmZOno6h|ASVna2bcCVlDwJa
+P3ChY78jELr1b8L|Qzq#?@gGL1APdan
+#fXe9pvP@PYG#G@|61GWpWX@tRls2s@
+s46kxWwsbitqONd|fxsxF#6pwD0mZ2R
+ksnoicokFnp6w7A|NM2JOPB3IoRAHJr
+N3KTqRmZ59zi0?6|iKCyQoSoj!Cn2L8
+#Sl1zOv?9OpWuUl|w@rKTPx7kvtJWpY
+uQEY8LTOnKfU@Gl|N1QmhaAGcDoZYCr
+4q@hNnFEcLJcaRo|F?TX5mz5r#eqSVE
+Fumyud5lwhrkBwE|@Or6HsE4lS8?K!h
+A3zaigfkG214yJF|9OoXz3XNR3soF21
+xj9PRaGRjtKTN5T|B0ynIwcoGJUnm6A
+9ASkiURuEp!XQ6y|k3rVwJt5MPLFRBe
+qbha4gzKnfZn0Qb|cQdS1!vs?T0rqe4
+xSm3mcIy!zrwaht|kUb5Js3h?iWKOKa
+vlXvysrVmROrUNM|7xgH9OeXxfpZwYq
+3Wj!olXR93gY5Fm|ajf#!TnDE0gaOkq
+fNucv92#ktpUPEr|tiVlthEVWNuHeMF
+esjqRC3uOAXJklt|VGfNKx?GWfcEIl@
+8dc@zG2WINaEnh7|eRVHePCF7Q7HVYO
+MqOWQzK1#oWG5jW|c2LSa91mUqjJj4i
+7#O?UaAhO6MZRd#|dQKtrIBYxJQqSqE
+rU31r7rPC2SVYr7|OmX0uP0EwCJDC0K
+
+
+===============================================================================
+
+
+COMMAND:
+
+jayze.py --gen-lines 31 --floater \\ / \) \( --center \| \*
+
+
+OUTPUT:
+
+(W!XE1divU?q1G1|pSQtUe95Dr0PNpF
+4\OQHrQ85w3iueg|CHuSXjtbjZkHe28
+rI\gQnZRUZOwmP0|LZT73uE#SkPjevW
+XU!\vhk3vqUT!@A|ZJBUwNxZTk@YFEQ
+FcYf\Ne0xMJQ9cx|hYfMEcEQEDmfpsZ
+NZxyh\!YTnd#pL!|q!DSkwNKaAT4Rsy
+Bh4Act\hU@RMxke|tGfuj2KZcK9yF?y
+T9ar7sG\FM1!4fp|?bi2NePcpL7cpVi
+v!2?2ca0\8tcdwM|Hk0aYu#6OaFnG6t
+iEICrg7Fx\k5pfG|43!lfHz!3qQD3bj
+K9mgHpPCRk\NsSH|qRgy#F5lw5utgxQ
+bCJQI3CQ!zg\QjN|iSP!0tfRvfxJaGs
+JEqg0R3RQV4P\1N|p6VW9V5?bM23e20
+PqzX?woxIKpPJ\R|?Fd1DwpS!3FpyE1
+NFfiL3z3IoMT?s\|bqSX3L4cKRCtRby
+1g3eUi#0h48l05f*t7V0JDHpmsoBOCk
+kI5A!iyszoVeIsO|\f9WOMElE8mZek@
+oX43CbIxM9jrnk!|a\BFUyMHj6eO1CZ
+e4XB82r1rR71l7Q|L6\HJN95u1Nu2ML
+c46QeZ9WYMvu38M|Ahv\x5Tm#NE@pVY
+quPHLtL2SXNF!0k|Z#7#\T6O0rEjkIn
+T#rQBP3W!k#Fx1j|fR1YP\Fe5Ej97mP
+iQpuqZ!gLrpUklh|kL7Qj1\PKQy79Rm
+0ti6PQZM?8wZFc5|gAQaQ#A\2Rr0a1C
+iyEXofZ9Rh@Tewr|qeLdLh3q\fNXKkF
+MpRs4T@fAjKRNkc|@?DJClHdJ\6EIwt
+0ZUpO9RSpSEqQ13|!dA@DoJoYU\@M@S
+ANx?iXEImduMTO2|sWjFPg@VQ6D\4NG
+OzbGS7GEVXU4a?a|BFMfe9OUr3d@\f8
+qHIUBprk!m4LoHi|jM!ZHyq4LzZbn\m
+MfZS?OJz7T2JcU4|NK?F#P69?y3hNs)
+ZsecVxUuD@SGxkN|nVS#mouZmiwRG/d
+d!jrqIVcSUyxIXb|9RQwF7mcpKEU/yP
+W9oSEifndO#hiQl|ZyuLdSr4KCD/Btw
+?SHlFbEnO1qcg18|NSyB!4YxjG/zxje
+J8Yq57xEAg!5dJ1|5fYRaFbYH/4t3aO
+9SHXHKnaI?B1B#H|vdv?Xk4h/EMZpB#
+XZwX8UucdsfjMPL|6QqlXEU/dXskKVr
+MEWTt!byUnzlbyK|ZnbFhQ/eJzO#02a
+S27nL#QRVHTtNWa|xCLqE/T?YqacfIR
+#Hn9AdnmoV3g1Yr|zuoe/TxAP8BD01R
+9J3FrhpmOY1UlQZ|uiS/L2wruN@q37w
+xSpn5xkrmd@9!MI|Ew/Zvx7Ev8G1@tY
+xRh7r8bI!RJYh!A|q/!QL2kBTqAuDAg
+2afRPRLW#ZqMnk7|/WfqcFvQqm#YSy9
+DuQ?Gy6gP!8de@I*zEMgiIahr1rMQ3c
+iCIO4tRLIaO2X!/|bCvpr40gs4kiHsp
+KI6lf?QTJQd2o/m|B@4YLwP4ge2l2fY
+bN5CXFYZ#khw/k1|mfCtuBb8v6ASoH2
+1uh0tsRILAQ/wno|tetNL7XiCuV6fnf
+lC0S8@Hqi3/yWli|dvSa#p!btzxIxAy
+1XmwMgzs5/gpiQ?|lg0kCSa6yv#HM#Z
+2HcJbXQ4/32@Ku#|fBUG5rv4e!vdbKy
+64MnaTR/DoznQCQ|x4oLsomFi6yF9ZC
+qBV?KP/7BcxDav0|yWZ9UVYpPzwaH0C
+wJydg/PSToeqbsm|CJip8mp8Y5Oa@uS
+!Pud/JxRnLnGWY7|56h2oX1TkqQ@BDS
+c0C/eHFTBJ63goh|BmeSqht8d8g1pgO
+ze/I!WUFiBCrJBX|QfpL1!9r#JfdovJ
+2/LzxzcIM2eZRU3|suJrwJnr3xMFm9W
+(wM8D56UrIMoiE1|JQBP7iUPMu?zjIW
+
+
+===============================================================================
+
+
+COMMAND:
+
+jayze.py --gen-lines 5 --chars ABC
+
+
+OUTPUT:
+
+BACBC
+BACBA
+CACAB
+CACBC
+BACAB
+BCACA
+BCBAC
+BCBCA
+ABABC
+BCBAC
+BCBCB
+ABABA
+ABACA
+CBCAB
+BABAC
+CACAB
+BACBC
+CACAB
+CABCB
+ABACA
+ABCAC
+BCACA
+CBCAB
+BACAB
+BACBA
+BABAB
+CBACA
+ACBAB
+ABCBC
+CACAC
+CBACB
+BACBA
+ABCBC
+ABCAC
+BCBAC
+CBABC
+ACACA
+BACBC
+BACAC
+CBACB
+CBABA
+CABCB
+BABCB
+ACACB
+CACAC
+ACBAB
+ABCBA
+ACACA
+CBCBA
+BABAC
+
+
+===============================================================================
+
+
+COMMAND:
+
+jayze.py --gen-lines 5 --chars ABC --rep
+
+
+OUTPUT:
+
+BAAAB
+BBCAB
+BBBBB
+ACCBC
+CCBBA
+ACCAB
+BCBBB
+BCCCA
+ACBCA
+CAAAB
+BBBAC
+BBABC
+ABBAA
+CBBAB
+ABCAB
+ABBAB
+BCAAB
+ACCAC
+BBABA
+BCCCA
+BBABB
+CCBCA
+ACCAC
+CCCAB
+CBBAC
+CBCAC
+ACBAB
+BCCBC
+BAAAC
+ACACC
+CCAAA
+CBBAA
+CCBBA
+CCAAA
+CBCAB
+BCAAA
+BABCB
+BAAAC
+BCBAB
+CCBCA
+ACACB
+CAAAC
+AAABA
+ACAAB
+BBBBC
+CCACC
+CCAAA
+AAABA
+BBCAA
+BBBAA
+
+
+===============================================================================
+
+
+COMMAND:
+
+jayze.py --gen-lines 31 --chars " " --rep --sparkle \+ \* \- \.
+
+
+OUTPUT:
+
++                     +
+-
+                    *
+      *
+                *            +
+ +           -
+   +      +
+    *
+           +         .
+                 .
+
+          *          +
+
+                         .    -
+
+     -          +
+
+
+      .
+
+
+                   .     -
+
+  . *
+
+                -
+
++
+
+                 *      *
+ * +
+               *
+      .       -
+        +
+                        .
+    *                     +
+     +
+         .
+              +    -
+*   .
+                       -
+                       *
+   .
+
+          -                   *
+      +                  .
+         .                 *
+                       .
+       -              +
+
+
+===============================================================================
+
+
+COMMAND:
+
+jayze.py --gen-lines 31 --chars " " --rep --sparkle \+ \* \- \. --floater \\ / \) \( --center \| \*
+
+
+OUTPUT:
+
+(              |        +
+ \             |
+  \            |
+   \           |
+    \          |
+     \         |        -
+      \        |
+ +     \       |
+ -      \      |
+ *       \     |       -
+          \    |            +
+           \+  |             -
+            \  |     .
++            \ |        +
+              \| -    .
+               *
+               |\
+        +      | \         .
+               |+ \         .
+     -         |   \    -
+               |    \
+               |     \      +
+               |      \
+             - | +     \
+               |+       \
+          .    |         \    .
+    *        - |          \
+               |           \
+               |   .*       \
+               |     +       \
+               |             +)
+               |  +    -     /
+               |            /
+               |           /
+               |          /   .
+               |         /
+              -|        /
+  *            |       /
+       +       |      /   -
+               |     /
+               |  - /         -
+               |   / +
+               |  /+
+       *       | /
+               |/     *    *
+        *      *
+              /|
+.        +   / |
+            /  |
+    +      /   |         *
+          /    |       .
+         /     |              +
+        /+     |              -
+       /       |            -
+.     /   *    |
+     /         |
+    /          |            .
+   /           |
+  /    *       |
+ /             |
+(    .         |

@@ -1,0 +1,496 @@
+# item_name.txt
+
+aaron's rod
+adylok
+aegis
+agneyastra
+air freshener
+almace
+almacia
+ama-no-murakumo-no-tsurugi
+ama-no-ohabari
+ama-no-saka-hoko
+ame-no-ohabari
+amenonuhoko
+ancile
+angrvaðall
+ankusha
+apollo's arrow
+apollo's bow
+apple
+aram
+arash's bow
+areadbhar
+ariadne's diadem
+armour
+arondight
+arrow
+artemis's arrow
+artemis's bow
+aruval
+ascalon
+asi
+astra
+axe
+ayudhapurusha
+babr-e bayan
+bag
+bajiaoshan
+balisarda
+balloon
+balmung
+banana palm fan
+bananas
+bashōsen
+beagalltach
+beautiful shield
+bed
+beef
+begallta
+bident
+blanket
+bleeding lance
+blodgan
+blouse
+blutgang
+book
+bookmark
+boom box
+bottle
+bottle cap
+bow
+bowl
+box
+bracelet
+bradamante's lance
+brahmanda astra
+brahmashirsha astra
+brahmastra
+brainbiter
+bread
+brocolli
+buckel
+burtgang
+button
+caduceus
+caladbolg
+caladcholg
+caledfwlch
+camera
+candle
+candy wrapper
+canvas
+cap
+car
+carnwennan
+carrots
+cat
+cd
+ceard-nan gallan
+cell phone
+chair
+chalk
+chandrahas
+chandrahrasa
+chapter book
+charger
+checkbook
+chentu
+chocolate
+chrysaor
+cinder block
+circe's staff
+clamp
+clarent
+clay pot
+claíomh solais
+clock
+cloich tabaill
+clothes
+club
+coasters
+colada
+computer
+conditioner
+controller
+cookie jar
+coreiseuse
+cork
+corrougue
+cosgarach mhor
+couch
+courtain
+crann buidhe
+credit card
+crescent-moon-shovel
+crocea mors
+cronus' scythe
+crown
+cruadh-chosgarach
+cruaidín catutchenn
+cup
+cupid's bow
+cura si manjakini
+curtana
+dagger
+death's scythe
+del chliss
+deodorant
+desk
+devil's pitchfork
+doll
+dominion
+door
+dragvandil
+drawer
+dried eyes
+drill press
+dubán
+durendal
+durlindana
+dyrnwyn
+dáinn's legacy
+dáinsleif
+eckesachs
+egeking
+elephant goad
+elf-arrow
+eraser
+erlang shen's spear
+eurytus' bow
+excalibur
+eye liner
+face wash
+fail-not
+fake flowers
+feijian
+flag
+flaming sword
+floor
+flower shield
+flowers
+food
+fork
+forseti's axe
+fosite's axe
+fragarach
+fridge
+froberge
+futsu-no-mitama
+gada
+gae assail
+galatine
+gambanteinn
+gan jiang and mo ye
+gandiva
+girish
+glass
+glasses
+glory
+glow stick
+golden coat
+gorz-e gāvsār
+goswhit
+grail sword
+gram
+green dragon crescent blade
+greeting card
+grid paper
+grus
+gríðarvölr
+gungnir
+gunnar's atgeir
+guy
+gáe buide
+gáe bulg
+gáe derg
+hair brush
+hair tie
+halayudha
+halo
+halteclere
+hammer
+hanger
+harpe
+hathelok
+hauteclaire
+headphones
+heaven's will
+helm
+helmet
+hephaestus's labrys
+heracles' club
+heracles's bow
+hercules arrows
+holly dart
+holy lance
+houken
+house
+houyi's bow
+hrotti
+hrunting
+huliðshjálmr
+huàyǐng
+hǫfuð
+ice cube tray
+imhullu
+indra's bow
+indravarman iii's metalwood bat
+ipod
+iron crown
+iron grippers
+isis' harpoon
+jagged sword
+jaivardhan
+jiuchidingpa
+joan
+jokulsnaut
+joyeuse
+juuchi yosamu
+járngreipr
+kaladanda
+kalevanmiekka
+kappa's plate
+kaumodaki
+kaundinya's bow
+kavacha
+kenkonken
+kerykeion
+key chain
+keyboard
+keys
+khanda
+khaṭvāṅga
+khetaka
+kladenets
+knife
+kodandam
+kogarasu maru
+kogitsune-maru
+kongō
+kris mpu gandring
+kris setan kober
+kris taming sari
+kunwu
+kusanagi-no-tsurugi
+lace
+lamp
+lamp shade
+lance
+leg warmers
+legbiter
+lightning axe
+lip gloss
+lobera
+lotion
+lævateinn
+lúin
+mac an luin
+mace
+magic bullet
+magic wand
+magnet
+maltet
+medallion
+merlin's staff
+merveilleuse
+milk
+mimung
+mirror
+mistery box
+mistilteinn
+mistletoe
+mjölnir
+mmaagha kamalu
+model car
+money
+monitor
+mop
+morallta
+moralltach
+morgelai
+mouse pad
+mp3 player
+murgleis
+murgleys
+nagelring
+nail clippers
+nail file
+nandaka
+narayanastra
+needle
+newspaper
+nihongo
+nistrimsha
+nothun
+nægling
+octane serpent spear
+ogmios's whip
+orna
+otegine
+outlet
+packing peanuts
+paint brush
+pangu's axe
+pants
+paper
+parashu
+parazonium
+pasha
+pashupatastra
+pattayudha
+paul bunyan's axe
+pen
+pencil
+perfume
+phone
+photo album
+phra saeng khan chaiyasi
+piano
+picture frame
+pillow
+pinaka
+plastic fork
+plate
+playing card
+pool stick
+pridwen
+prospero's staff
+précieuse
+puddle
+puppet
+purse
+quern-biter
+radio
+remote
+rhongomiant
+ridill
+ring
+rod
+rubber band
+rubber duck
+rug
+rusty nail
+ruyi
+ruyi jingu bang
+sagitta
+sailboat
+samosek
+samosyo
+sand paper
+sandal
+sauvagine
+scotch tape
+screw
+scythe
+seat belt
+secace
+shampoo
+shamshir-e zomorrodnegar
+shango's axe
+sharanga
+sharpie
+sharur
+shawl
+shield
+shirt
+shiva dhanush
+shoe lace
+shoes
+shovel
+sidewalk
+silver bullet
+singing sword
+sketch pad
+sling-stone
+slipper
+soap
+socks
+soda can
+soy sauce packet
+speakers
+spear
+sponge
+spoon
+spring
+srivatsa
+staff
+sticky note
+stockings
+stop sign
+street lights
+sudarshana chakra
+sun glasses
+sun wukong's magical headband
+svalinn
+sword
+szczerbiec (notched sword
+table
+tarnhelm
+tathlum
+teddies
+teen baan
+television
+thermometer
+thermostat
+thread
+thunderbolt
+thuận thiên
+thyrsus
+tire swing
+tishtrya's mace
+tissue box
+tizona
+tizón
+toe ring
+toilet
+tomato
+tonbokiri
+tooth picks
+toothbrush
+toothpaste
+totsuka-no-tsurugi
+towel
+tree
+trident
+trishula
+truck
+tsumugari no tachi
+tv
+twezzers
+twister
+tyrfing
+tyrving
+téngkōng
+uchide
+ukonkirves
+ukonvasara
+usb drive
+vajra
+varunastra
+vasavi shakti
+vase
+veil
+vel
+video games
+vijaya
+wagon
+wallace sword
+wallet
+was
+washing machine
+watch
+water bottle
+white out
+white-hilt
+window
+wolf slayer
+wynebgwrthucher
+xiuhcoatl
+yagrush and ayamur
+yawarakai-te
+yueyachan
+zeus's labrys
+zipper
+zulfiqar
+شمشیر زمردنگار

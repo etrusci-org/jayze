@@ -1,0 +1,780 @@
+Help on module jayze:
+
+NAME
+    jayze - jayze command line interface.
+
+DATA
+    d = '/mnt/Dev1/coding/python/datagen/jayze'
+    jayze_app_dir = '/mnt/Dev1/coding/python/datagen/jayze'
+    jayze_conf = {'app': {'name': 'jayze', 'version': '1.0.1'}, 'arg_map':...
+    jayze_lib_dirs = ['/mnt/Dev1/coding/python/datagen/jayze/lib/vendor', ...
+
+FILE
+    /mnt/Dev1/coding/python/datagen/jayze/jayze.py
+
+
+====================================================================================================
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Help on module lib.conf in lib:
+
+NAME
+    lib.conf - jayze configuration.
+
+DESCRIPTION
+    jayze_conf...
+        app : app information.
+        args : configuration for lib.vendor.cliparser.
+        arg_map : argument->module mapping for automatic execution in lib.engine.JayzeEngine.main.
+
+DATA
+    jayze_conf = {'app': {'name': 'jayze', 'version': '1.0.1'}, 'arg_map':...
+
+FILE
+    /mnt/Dev1/coding/python/datagen/jayze/lib/conf.py
+
+
+====================================================================================================
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Help on module lib.engine in lib:
+
+NAME
+    lib.engine
+
+CLASSES
+    builtins.object
+        JayzeEngine
+    
+    class JayzeEngine(builtins.object)
+     |  Methods defined here:
+     |  
+     |  __init__(self, conf, args)
+     |      Initialize the engine, save given arguments.
+     |      
+     |      conf (dict): jayze_conf from lib.conf
+     |      args (dict): parsed command line arguments, also see jayze_conf['args'].
+     |  
+     |  main(self)
+     |      Execute one generator according to given arguments and mapping in jayze_conf.arg_map.
+     |  
+     |  ----------------------------------------------------------------------
+     |  Data descriptors defined here:
+     |  
+     |  __dict__
+     |      dictionary for instance variables (if defined)
+     |  
+     |  __weakref__
+     |      list of weak references to the object (if defined)
+     |  
+     |  ----------------------------------------------------------------------
+     |  Data and other attributes defined here:
+     |  
+     |  app_info_str = ''
+     |  
+     |  args = {}
+     |  
+     |  conf = {}
+
+FILE
+    /mnt/Dev1/coding/python/datagen/jayze/lib/engine.py
+
+
+====================================================================================================
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Help on module lib.helper in lib:
+
+NAME
+    lib.helper - shared helper functions.
+
+FUNCTIONS
+    jayze_idle(sec)
+        Do nothing for a specific amount of time.
+        
+        sec (int|float): for how long to do nothing.
+    
+    jayze_n_format(n, **options)
+        Format a number according to given arguments.
+        
+        n (int|float) : the number to format.
+        
+        **options (kwargs):
+            ascinot (bool): true=automatically convert numbers to scientific number notation when they exceed the precision limit, false=keep original number.
+            prec (int): precision to use for scientific number notation.
+            scinot (bool): true=use scientific number notation, false=do not use scientific number notation.
+            sqrt (bool): true=output square root of originally computed numbers, false=keep original numbers.
+    
+    jayze_output(*msg, end='\n')
+        Print a message to stdout.
+        
+        *msg (str|args): the message to be printed.
+        end (str): which characters to add at the end of the output.
+    
+    jayze_t_format(t, **options)
+        Format a text according to given arguments.
+        
+        t (int|float) : the text to format.
+        
+        **options (kwargs):
+            case (str): case format to apply on the output.
+
+DATA
+    __all__ = ['jayze_idle', 'jayze_n_format', 'jayze_t_format', 'jayze_ou...
+
+FILE
+    /mnt/Dev1/coding/python/datagen/jayze/lib/helper.py
+
+
+====================================================================================================
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Help on module lib.generator.gen_dummyfile in lib.generator:
+
+NAME
+    lib.generator.gen_dummyfile
+
+CLASSES
+    builtins.object
+        JayzeDummyfile
+    
+    class JayzeDummyfile(builtins.object)
+     |  Methods defined here:
+     |  
+     |  gen_dummyfile(self, out_file_conf, **options)
+     |      Create a dummy file with a specific size in bytes.
+     |      
+     |      out_file_conf (list|tuple): the size in bytes and file path.
+     |      
+     |      **options (kwargs):
+     |          none
+     |  
+     |  ----------------------------------------------------------------------
+     |  Data descriptors defined here:
+     |  
+     |  __dict__
+     |      dictionary for instance variables (if defined)
+     |  
+     |  __weakref__
+     |      list of weak references to the object (if defined)
+
+FILE
+    /mnt/Dev1/coding/python/datagen/jayze/lib/generator/gen_dummyfile.py
+
+
+====================================================================================================
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Help on module lib.generator.gen_example in lib.generator:
+
+NAME
+    lib.generator.gen_example
+
+CLASSES
+    builtins.object
+        JayzeExample
+    
+    class JayzeExample(builtins.object)
+     |  Minimal generator module example.
+     |  
+     |  Methods defined here:
+     |  
+     |  gen_example(self, foo, **options)
+     |      Example output.
+     |      
+     |      foo (str): some value.
+     |      
+     |      **options (kwargs):
+     |          delay (float|int): how many seconds to idle after each output iteration.
+     |          eol (str): which characters to add at the end of a output iteration.
+     |  
+     |  ----------------------------------------------------------------------
+     |  Data descriptors defined here:
+     |  
+     |  __dict__
+     |      dictionary for instance variables (if defined)
+     |  
+     |  __weakref__
+     |      list of weak references to the object (if defined)
+
+FILE
+    /mnt/Dev1/coding/python/datagen/jayze/lib/generator/gen_example.py
+
+
+====================================================================================================
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Help on module lib.generator.gen_fibonaccis in lib.generator:
+
+NAME
+    lib.generator.gen_fibonaccis
+
+CLASSES
+    builtins.object
+        JayzeFibonaccis
+    
+    class JayzeFibonaccis(builtins.object)
+     |  Methods defined here:
+     |  
+     |  gen_fibonaccis(self, n_range, **options)
+     |      Run range or endless generator depending on n_range contents.
+     |      
+     |      n_range (list|tuple): the smallest and biggest number in the range to test.
+     |      
+     |      **options (kwargs):
+     |          ascinot (bool): true=automatically convert numbers to scientific number notation when they exceed the precision limit, false=keep original number.
+     |          delay (float|int): how many seconds to idle after each output iteration.
+     |          eol (str): which characters to add at the end of a output iteration.
+     |          prec (int): precision to use for scientific number notation.
+     |          scinot (bool): true=use scientific number notation, false=do not use scientific number notation.
+     |          sqrt (bool): true=output square root of originally computed numbers, false=keep original numbers.
+     |  
+     |  ----------------------------------------------------------------------
+     |  Static methods defined here:
+     |  
+     |  get_next_ab(a, b)
+     |      Get the next number pair.
+     |      
+     |      a (int): current number a
+     |      b (int): current number b
+     |  
+     |  ----------------------------------------------------------------------
+     |  Data descriptors defined here:
+     |  
+     |  __dict__
+     |      dictionary for instance variables (if defined)
+     |  
+     |  __weakref__
+     |      list of weak references to the object (if defined)
+
+FILE
+    /mnt/Dev1/coding/python/datagen/jayze/lib/generator/gen_fibonaccis.py
+
+
+====================================================================================================
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Help on module lib.generator.gen_lines in lib.generator:
+
+NAME
+    lib.generator.gen_lines
+
+CLASSES
+    builtins.object
+        JayzeLines
+    
+    class JayzeLines(builtins.object)
+     |  Static methods defined here:
+     |  
+     |  gen_lines(length, **options)
+     |      Output lines with randomized characters.
+     |      
+     |      length (int): line character count.
+     |      
+     |      **options (kwargs):
+     |          case (str): case format to apply on the output.
+     |          center (list): 2 characters to use for the center effect.
+     |          chars (str): characters to use for output.
+     |          delay (float|int): how many seconds to idle after each output iteration.
+     |          eol (str): which characters to add at the end of a output iteration.
+     |          floater (list): 4 characters to use for the floater effect.
+     |          rep (bool): true=allow  immediate repetition, false=avoid immediate repetition.
+     |          sparkle (list): 1 or more characters to use for the sparkle effect.
+     |  
+     |  ----------------------------------------------------------------------
+     |  Data descriptors defined here:
+     |  
+     |  __dict__
+     |      dictionary for instance variables (if defined)
+     |  
+     |  __weakref__
+     |      list of weak references to the object (if defined)
+
+FILE
+    /mnt/Dev1/coding/python/datagen/jayze/lib/generator/gen_lines.py
+
+
+====================================================================================================
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Help on module lib.generator.gen_permutations in lib.generator:
+
+NAME
+    lib.generator.gen_permutations
+
+CLASSES
+    builtins.object
+        JayzePermutations
+    
+    class JayzePermutations(builtins.object)
+     |  Methods defined here:
+     |  
+     |  gen_permutations(self, chars, **options)
+     |  
+     |  ----------------------------------------------------------------------
+     |  Data descriptors defined here:
+     |  
+     |  __dict__
+     |      dictionary for instance variables (if defined)
+     |  
+     |  __weakref__
+     |      list of weak references to the object (if defined)
+
+FILE
+    /mnt/Dev1/coding/python/datagen/jayze/lib/generator/gen_permutations.py
+
+
+====================================================================================================
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Help on module lib.generator.gen_phrases in lib.generator:
+
+NAME
+    lib.generator.gen_phrases
+
+CLASSES
+    builtins.object
+        JayzePhrases
+    
+    class JayzePhrases(builtins.object)
+     |  Methods defined here:
+     |  
+     |  gen_phrases(self, str_files, **options)
+     |      Output phrases with randomized parts from text files.
+     |      
+     |      str_files (list): file paths to load the input from.
+     |      
+     |      **options (kwargs):
+     |          case (str): case format to apply on the output.
+     |          delay (float|int): how many seconds to idle after each output iteration.
+     |          eol (str): which characters to add at the end of a output iteration.
+     |          rep (bool): true=allow  immediate repetition, false=avoid immediate repetition.
+     |          varlen (bool): true=vary parts count, false=do not vary parts count.
+     |  
+     |  gen_typewriter(self, str_files, **options)
+     |      Output lines from a textfile in a typewriter manner.
+     |      
+     |      str_files (list): file paths to load the input from.
+     |      
+     |      **options (kwargs):
+     |          case (str): case format to apply on the output.
+     |          delay (float|int): how many seconds to idle after each output iteration.
+     |  
+     |  ----------------------------------------------------------------------
+     |  Static methods defined here:
+     |  
+     |  load_str_files(str_files, allow_empty_lines=False)
+     |      Read lines from text files.
+     |      
+     |      str_files (list): file paths to load the input from.
+     |      allow_empty_lines (bool): true=allow empty lines, false=ignore empty lines.
+     |  
+     |  ----------------------------------------------------------------------
+     |  Data descriptors defined here:
+     |  
+     |  __dict__
+     |      dictionary for instance variables (if defined)
+     |  
+     |  __weakref__
+     |      list of weak references to the object (if defined)
+
+FILE
+    /mnt/Dev1/coding/python/datagen/jayze/lib/generator/gen_phrases.py
+
+
+====================================================================================================
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Help on module lib.generator.gen_primes in lib.generator:
+
+NAME
+    lib.generator.gen_primes
+
+CLASSES
+    builtins.object
+        JayzePrimes
+    
+    class JayzePrimes(builtins.object)
+     |  Methods defined here:
+     |  
+     |  gen_primes(self, n_range, **options)
+     |      Run range or endless generator depending on n_range contents.
+     |      
+     |      n_range (list|tuple): the smallest and biggest number in the range to test.
+     |      
+     |      **options (kwargs):
+     |          ascinot (bool): true=automatically convert numbers to scientific number notation when they exceed the precision limit, false=keep original number.
+     |          delay (float|int): how many seconds to idle after each output iteration.
+     |          eol (str): which characters to add at the end of a output iteration.
+     |          prec (int): precision to use for scientific number notation.
+     |          scinot (bool): true=use scientific number notation, false=do not use scientific number notation.
+     |          sqrt (bool): true=output square root of originally computed numbers, false=keep original numbers.
+     |  
+     |  ----------------------------------------------------------------------
+     |  Static methods defined here:
+     |  
+     |  get_next_n(n_cur)
+     |      Get the next number that makes sense to test.
+     |      
+     |      n_cur (int): the current number.
+     |  
+     |  trial_division(n)
+     |      Test a number for primality.
+     |      
+     |      n (int): the number to test.
+     |  
+     |  ----------------------------------------------------------------------
+     |  Data descriptors defined here:
+     |  
+     |  __dict__
+     |      dictionary for instance variables (if defined)
+     |  
+     |  __weakref__
+     |      list of weak references to the object (if defined)
+
+FILE
+    /mnt/Dev1/coding/python/datagen/jayze/lib/generator/gen_primes.py
+
+
+====================================================================================================
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Help on module lib.generator.gen_triangulars in lib.generator:
+
+NAME
+    lib.generator.gen_triangulars
+
+CLASSES
+    builtins.object
+        JayzeTriangulars
+    
+    class JayzeTriangulars(builtins.object)
+     |  Methods defined here:
+     |  
+     |  gen_triangulars(self, n_range, **options)
+     |      Run range or endless generator depending on n_range contents.
+     |      
+     |      n_range (list|tuple): the smallest and biggest number in the range to test.
+     |      
+     |      **options (kwargs):
+     |          ascinot (bool): true=automatically convert numbers to scientific number notation when they exceed the precision limit, false=keep original number.
+     |          delay (float|int): how many seconds to idle after each output iteration.
+     |          eol (str): which characters to add at the end of a output iteration.
+     |          prec (int): precision to use for scientific number notation.
+     |          scinot (bool): true=use scientific number notation, false=do not use scientific number notation.
+     |          sqrt (bool): true=output square root of originally computed numbers, false=keep original numbers.
+     |  
+     |  ----------------------------------------------------------------------
+     |  Static methods defined here:
+     |  
+     |  get_next_dots_count(iteration)
+     |      Get next iterations dots count.
+     |      
+     |      iteration (int): current iteration.
+     |  
+     |  ----------------------------------------------------------------------
+     |  Data descriptors defined here:
+     |  
+     |  __dict__
+     |      dictionary for instance variables (if defined)
+     |  
+     |  __weakref__
+     |      list of weak references to the object (if defined)
+
+FILE
+    /mnt/Dev1/coding/python/datagen/jayze/lib/generator/gen_triangulars.py
+
+
+====================================================================================================
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Help on module lib.vendor.cliparser in lib.vendor:
+
+NAME
+    lib.vendor.cliparser
+
+CLASSES
+    builtins.object
+        CLIParser
+    
+    class CLIParser(builtins.object)
+     |  Methods defined here:
+     |  
+     |  __init__(self, conf)
+     |  
+     |  parse_args(self, return_dict=True)
+     |  
+     |  print_help(self)
+     |  
+     |  ----------------------------------------------------------------------
+     |  Data descriptors defined here:
+     |  
+     |  __dict__
+     |      dictionary for instance variables (if defined)
+     |  
+     |  __weakref__
+     |      list of weak references to the object (if defined)
+     |  
+     |  ----------------------------------------------------------------------
+     |  Data and other attributes defined here:
+     |  
+     |  args = None
+     |  
+     |  conf = {}
+     |  
+     |  parser = None
+
+FILE
+    /mnt/Dev1/coding/python/datagen/jayze/lib/vendor/cliparser.py
+
+
+====================================================================================================
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

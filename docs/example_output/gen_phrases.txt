@@ -1,0 +1,132 @@
+COMMAND:
+
+jayze.py --gen-phrases verb_prefix.txt entity_firstname.txt entity_lastname.txt entity_suffix.txt
+
+
+OUTPUT:
+
+misidentified bennie splitt of socorro
+despised piper kosicki of croton
+closured ginelle welden of pennington
+glimpsing lurlene fitzhugh of coteau
+roughcasting charlyn moguel of belcher
+outpraying lucine vanderpol of lafollette
+hepatising le santorella of henniker
+aspired lisette cowens of wilsall
+recrudescing latrice grimlie of waynetown
+spragged daloris colb of como
+retyped gilda benedix of glencarbon
+awaked cyrus meakin of saldee
+patrolled cindra leverance of smithton
+faradised treena mieras of baraga
+emphasizing madie kolker of woodston
+abetted lennie cinotti of jameson
+hydrolysing mersey heer of owanka
+inosculating tiffiny sterbenz of klossner
+tiding demetrius zuzana of marcellus
+regorged lorrin zeiger of slatington
+velated gretna daly of suffern
+effectuating shante glueckert of puncheon
+reassembled jackquelin rohrback of bealeton
+spread-eagled nadean draa of lonedell
+flagellated laree letch of forkunion
+misestimated prudy baculpo of kadoka
+snoozing enid sonderman of morrisonville
+upbuilding prisca fackrell of breesport
+cooperating diego hantzarides of bloomingdale
+cogged camella wisenbaker of godeffroy
+interfused elton bartosz of strandquist
+emceed willis hamel of scammon
+masculinizing cherri kubeck of nolanville
+outbreed emmanuel ible of oriskany
+mediatising umeko gorlicki of peridot
+doming elysee opie of millersburg
+mandated georgetta sipkema of oostburg
+dissembling alva rosendo of gasport
+fried giana spiotta of obrien
+jumbled eddi meneus of burkville
+devastated juli mckellan of fritch
+prologized edeline pasko of tescott
+paddling lashaunda lyme of shannock
+literalised marcos teppo of chidester
+readvertised weston erm of dunlo
+philosophising ammamaria westgate of sebastopol
+begriming merl raghunandan of milladore
+misdealing tallou asplin of vergennes
+metabolised darb kurelko of eloy
+unvulgarized evelynn peadar of floodwood
+
+
+===============================================================================
+
+
+COMMAND:
+
+jayze.py --gen-phrases verb_prefix.txt entity_firstname.txt entity_lastname.txt entity_suffix.txt --eol " / "
+
+
+OUTPUT:
+
+siping princess mettert of alpena / forswearing sile dellagatta of blackduck / baled joanie lipkind of teaberry / memorialising vincenzo hostettler of hebert / agonised nereida karlsson of oceanport / osmosed jonna tenner of stockwell / daguerreotyped porfirio athiste of amery
+
+
+===============================================================================
+
+
+COMMAND:
+
+jayze.py --gen-phrases verb_prefix.txt entity_firstname.txt entity_lastname.txt entity_suffix.txt --varlen 0.5 --case title
+
+
+OUTPUT:
+
+Reeva Drugan
+Murial Pearson Of Carriere
+Allen Tuia
+Carmella Maceyak Of Gramercy
+Lezlie Geoffrey Of Ong
+Kernelling Loralyn Nerney
+Rosette Virginie Of Lecanto
+Lilla Mcsparin
+Slimmed Patrina Schryver
+Deedee Mcgarrigle Of Loreauville
+Marylyn Spearow
+Optimizing Cherryl Scala Of Middleburg
+Ellsworth Mieth Of Frohna
+Fibbing Caitlyn Petrino
+Tu Granieri Of Chelmsford
+Brynna Mondier
+Framed Jesselyn Testman Of Cheltenham
+Paolina Drice
+Misdating Bryn Fujiwara Of Warrington
+Bowsing Kristofer Lanza Of Glenoma
+Evanne Sorum Of Blountstown
+Floretta Mag Of Dagusmines
+Eloped Kathye Battiste Of Nesquehoning
+Ray Deak Of Huey
+Glad Bayird Of Holtsville
+Rafaelita Lyne
+Equalised Robinette Graffeo
+Lenna Hotard
+Nollie Sacks
+Alyse Jacquemin
+Gelya Matero
+Deionizing Lean Duffin
+Joselyn Guinevere
+Oxygenizing Missie Progacz
+Iseabal Johe
+Reinterring Jenise Zaneski Of Hillrose
+Categorising Faye Werthman Of Keaau
+Lurette Thackrey
+Valrie Lorelei Of Rattan
+Maude Shifflet Of Purdum
+Brenton Frazzano
+Nevsa Broll Of Woodsboro
+Teeing Flossi Segers
+Rigidifying Sidonnie Barreto Of Pinetops
+Bayonetted Melonie Urick Of Milmay
+Nurturing Delmar Papadakis Of Parnell
+Federica Vanderschoot
+Ice-Skating Dasya Saugis
+Kerianne Seabright Of Tunica
+Kriste Cryderman

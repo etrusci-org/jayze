@@ -1,0 +1,4 @@
+# typewriter1.txt
+Hello cruel world.
+This is a test.
+

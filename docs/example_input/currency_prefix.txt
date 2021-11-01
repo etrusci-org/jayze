@@ -1,0 +1,7 @@
+# currency_prefix.txt
+
+bloody
+clean
+cursed
+dusty
+glowing

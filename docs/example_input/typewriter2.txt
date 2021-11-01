@@ -1,0 +1,14 @@
+# typewriter2.txt
+One file after another.
+
+Btw, --gen-typewriter accepts...
+
+
+
+
+...empty...
+
+
+
+
+...lines in its input files.

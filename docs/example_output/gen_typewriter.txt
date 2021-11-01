@@ -1,0 +1,27 @@
+COMMAND:
+
+jayze.py --gen-typewriter typewriter1.txt typewriter2.txt --delay 0.15
+
+
+OUTPUT:
+
+Hello cruel world.
+This is a test.
+
+One file after another.
+
+
+===============================================================================
+
+
+COMMAND:
+
+jayze.py --gen-typewriter typewriter1.txt typewriter2.txt --delay 0.15
+
+
+OUTPUT:
+
+HElLO CRUel WORLD.
+this IS A teST.
+
+OnE FILE AFtER ANoTheR.

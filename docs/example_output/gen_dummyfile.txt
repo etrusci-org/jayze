@@ -1,0 +1,8 @@
+COMMAND:
+
+jayze.py --gen-dummyfile 1000 dummy.txt
+
+
+OUTPUT:
+
+Writes 1000 bytes to dummy.txt in the current working directory if the file doesn't exist already.

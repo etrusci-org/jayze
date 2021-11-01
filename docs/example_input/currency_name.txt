@@ -1,0 +1,11 @@
+# currency_name.txt
+
+copper bar
+copper coin
+copper nugget
+gold bar
+gold coin
+gold nugget
+silver bar
+silver coin
+silver nugget
